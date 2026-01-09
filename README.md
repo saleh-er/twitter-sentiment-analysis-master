@@ -48,8 +48,4 @@ Créer une branche pour vos modifications
 
 Soumettre une Pull Request
 
-#Auteur
 
-Nom : saleh Erragragui
-
-Email : saleherragragui02@gmail.com
